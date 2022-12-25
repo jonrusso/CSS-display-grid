@@ -12,7 +12,7 @@ Some notes and a complete guide about display grid from CSS-tricks.
 
 <br>
 
-<h2 align="center"> Concluding my <strong>theoric</strong> part I did a short exercise about this on this project. </h2>
+<h2 align="center"> Concluding my <strong>theoric</strong> part I did a short exercise about it on this project. </h2>
 
 
 <br>
